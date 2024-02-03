@@ -1,0 +1,5 @@
+#Pycharm specific
+*.idea
+__pycache__/
+test/
+
